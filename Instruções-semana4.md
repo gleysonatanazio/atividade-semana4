@@ -1,4 +1,4 @@
-# Instruções das Atividades para a Semana 4 
+# Instruções das Atividades para a Semana 4
 
 ## Prazo: 06/03/21
 
