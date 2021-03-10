@@ -13,7 +13,7 @@ programa
 
           real indiceTurnOver = turnover(admissao,demissao,totalFuncionario)
 
-          escreva("O turnover da empresa foi de ",indiceTurnOver,"%")
+          escreva("O turnover da empresa foi de ",indiceTurnOver,"%","\n")
 	}
 	
 	funcao real turnover(real totalFuncionario, real admissao,real demissao)
@@ -27,7 +27,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 491; 
+ * @POSICAO-CURSOR = 496; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
